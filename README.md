@@ -17,6 +17,10 @@ Welcome to the meta repository for the open source .NET efforts at Canonical.
 | [.NET SDK Test Suite Runner](https://github.com/canonical/dotnet-test-runner) | The tool that runs the .NET SDK test suite |
 | [Flamenco](https://github.com/canonical/flamenco) | Helps to manage multiple versions of source packages from a single Debian source tree |
 
+## Specifications
+
+- [FO127 - .NET 8 Package Versioning](specs/FO127.md)
+
 ## License
 
 Copyright 2013 Canonical Ltd.
