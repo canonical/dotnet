@@ -12,10 +12,14 @@ Welcome to the meta repository for the open source .NET efforts at Canonical.
 |---------|-------------|
 | [.NET Source Build](https://github.com/canonical/dotnet-source-build) | Building .NET Debian source packages for Ubuntu|
 | [.NET Snap](https://github.com/canonical/dotnet-snap) | Building the .NET snap with the .NET installer tool |
+| [.NET Content Snaps](https://github.com/canonical/dotnet-content-snaps) | .NET Runtime and SDK content snaps |
 | [.NET Containers](https://github.com/canonical/dotnet-containers) | Ubuntu based container images for the .NET runtime |
 | [.NET SDK Test Suite](https://github.com/canonical/dotnet-regular-tests) | Test cases to check for regressions in .NET SDK builds |
 | [.NET SDK Test Suite Runner](https://github.com/canonical/dotnet-test-runner) | The tool that runs the .NET SDK test suite |
+| [.NET Release File Generator](https://github.com/canonical/dotnet-release-file-generator) | A tool to generate .NET release files to be consumed by the `dotnet sdk check` command based on Launchpad package availability |
 | [Flamenco](https://github.com/canonical/flamenco) | Helps to manage multiple versions of source packages from a single Debian source tree |
+| [MSBuild Structured Log Viewer Snap](https://github.com/canonical/dotnet-msbuild-structured-log-viewer-snap) | A snap of the MSBuild Structured Log Viewer application |
+| [NetCoreDbg Snap](https://github.com/canonical/netcoredbg-snap) | A snap of the NetCoreDbg debugger |
 
 ## Specifications
 
