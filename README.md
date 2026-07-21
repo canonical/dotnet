@@ -21,6 +21,7 @@ Welcome to the meta repository for the open source .NET efforts at Canonical.
 | [MSBuild Structured Log Viewer Snap](https://github.com/canonical/dotnet-msbuild-structured-log-viewer-snap) | A snap of the MSBuild Structured Log Viewer application |
 | [NetCoreDbg Snap](https://github.com/canonical/netcoredbg-snap) | A snap of the NetCoreDbg debugger |
 | [PowerShell Snaps](https://github.com/canonical/powershell-snaps) | Snaps of the PowerShell and PowerShell Preview applications |
+| [Cake (C# Make) Snap](https://github.com/canonical/dotnet-cake-snap) | Snap package for the Cake .NET Tool (CLI), a cross-platform build automation system with a C# DSL |
 
 ## Specifications
 
